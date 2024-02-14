@@ -46,3 +46,15 @@ input[type="checkbox"]:focus {
 .botao-padrao:hover{
   background: var(--marrom-escuro);
 }
+.input-range::-webkit-slider-thumb{
+  background-color: var(--marrom-claro);
+}
+[data-bs-theme="dark"]{
+  color: white;
+  .nav-link, .card-body, .offcanvas, .accordion, .btn{
+    --bs-navbar-color:white;
+    --bs-card-color:white;
+    --bs-offcanvas-color:white;
+    --bs-body-color:white;
+  }
+}
