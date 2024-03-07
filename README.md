@@ -4,7 +4,7 @@ Objetivo do projeto desenvolver minhas habilidades
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Meteora**
+| :sparkles: Nome        | **Serenato**
 | :label: Tecnologias | javaScript, html, css, Bootstrap(tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
